@@ -19,51 +19,8 @@
     <script>
       window.$docsify = {
         name: "My Awesome Tools",
-        repo: "https://github.com/seanmars/my-awesome-tools/",
+        repo: "seanmars/my-awesome-tools",
         search: "auto", // default
-
-        search: [
-          "/", // => /README.md
-        ],
-
-        // complete configuration parameters
-        search: {
-          maxAge: 86400000, // Expiration time, the default one day
-          paths: [], // or 'auto'
-          placeholder: "Type to search",
-
-          // Localization
-          placeholder: {
-            "/": "Type to search",
-          },
-
-          noData: "No Results!",
-
-          // Localization
-          noData: {
-            "/": "No Results",
-          },
-
-          // Headline depth, 1 - 6
-          depth: 2,
-
-          hideOtherSidebarContent: false, // whether or not to hide other sidebar content
-
-          // To avoid search index collision
-          // between multiple websites under the same domain
-          namespace: "",
-
-          // Use different indexes for path prefixes (namespaces).
-          // NOTE: Only works in 'auto' mode.
-          //
-          // When initialiazing an index, we look for the first path from the sidebar.
-          // If it matches the prefix from the list, we switch to the corresponding index.
-          pathNamespaces: [],
-
-          // You can provide a regexp to match prefixes. In this case,
-          // the matching substring will be used to identify the index
-          pathNamespaces: /^*?/,
-        },
       };
     </script>
     <!-- Docsify v4 -->
