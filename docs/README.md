@@ -7,6 +7,7 @@
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
   
 
 ## Development Tools
