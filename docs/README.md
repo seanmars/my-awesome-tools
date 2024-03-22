@@ -8,6 +8,7 @@
 - [fzf](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
+- [TooLong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
   
 
 ## Development Tools
