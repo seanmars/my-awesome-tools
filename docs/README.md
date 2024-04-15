@@ -17,3 +17,10 @@
 - [RepoZ](https://github.com/awaescher/RepoZ) - A zero-conf git repository information manager.
 - [ngrok](https://ngrok.com/) - ngrok is a globally distributed reverse proxy that secures, protects and accelerates your applications and network services, no matter where you run them. You can think of ngrok as the front door to your applications.
 - [devtunnel](https://learn.microsoft.com/zh-tw/azure/developer/dev-tunnels/) - Dev tunnels allows developers to securely expose local web services to the Internet, control who has access, and easily & debug your web applications from anywhere.
+
+## Observability Tools
+
+- [Uptime Kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+- [OneUptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
+- [Upptime](https://github.com/upptime/upptime) - GitHub Actions uptime monitor & status page by @AnandChowdhary
+- [Zabbix](https://www.zabbix.com/)
