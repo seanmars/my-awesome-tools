@@ -10,13 +10,17 @@
 - [gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
 - [TooLong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
-  
 
 ## Development Tools
 
 - [RepoZ](https://github.com/awaescher/RepoZ) - A zero-conf git repository information manager.
 - [ngrok](https://ngrok.com/) - ngrok is a globally distributed reverse proxy that secures, protects and accelerates your applications and network services, no matter where you run them. You can think of ngrok as the front door to your applications.
 - [devtunnel](https://learn.microsoft.com/zh-tw/azure/developer/dev-tunnels/) - Dev tunnels allows developers to securely expose local web services to the Internet, control who has access, and easily & debug your web applications from anywhere.
+
+### Cache
+
+- [Valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
+- [Garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.
 
 ## Observability Tools
 
