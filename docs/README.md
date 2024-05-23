@@ -28,3 +28,8 @@
 - [OneUptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
 - [Upptime](https://github.com/upptime/upptime) - GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [Zabbix](https://www.zabbix.com/)
+
+## Diagram
+
+- [draw.io](https://www.drawio.com/) - draw.io is a JavaScript, client-side editor for general diagramming.
+- [Structurizr](https://structurizr.com/) - Structurizr builds upon "diagrams as code", allowing you to create multiple software architecture diagrams from a single model.
