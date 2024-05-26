@@ -1,2 +1,3 @@
 * [Tools](/)
 * [.NET](/dot-net/)
+* [Self-Hosted](/self-hosted/)
