@@ -1,4 +1,9 @@
-Awesome .NET Package
+# Awesome .NET Package
+
+## Console / Command Line
+
+- [CliWrap](https://github.com/Tyrrrz/CliWrap) - Library for running command-line processes
+- [Cocona](https://github.com/mayuki/Cocona) - Micro-framework for .NET console application. Cocona makes it easy and fast to build console applications on .NET
 
 ## Testing
 
