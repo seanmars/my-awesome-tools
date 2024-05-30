@@ -34,3 +34,10 @@
 
 - [draw.io](https://www.drawio.com/) - draw.io is a JavaScript, client-side editor for general diagramming.
 - [Structurizr](https://structurizr.com/) - Structurizr builds upon "diagrams as code", allowing you to create multiple software architecture diagrams from a single model.
+- [whimsical](https://whimsical.com/)
+
+## Note
+
+- [Notion](https://www.notion.so/)
+- [anytype](https://anytype.io/)
+- [Obsidian](https://obsidian.md/)
