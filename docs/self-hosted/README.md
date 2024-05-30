@@ -1,4 +1,4 @@
-Self-hosted Service
+# Self-hosted Service
 
 ## Auth
 
