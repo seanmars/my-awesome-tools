@@ -1,5 +1,9 @@
 # Awesome .NET Package
 
+## Schedule
+
+- [Coravel](https://docs.coravel.net/) - Near-zero config .NET Core library that makes Task Scheduling, Caching, Queuing, Mailing, Event Broadcasting (and more) a breeze!
+
 ## Console / Command Line
 
 - [CliWrap](https://github.com/Tyrrrz/CliWrap) - Library for running command-line processes
