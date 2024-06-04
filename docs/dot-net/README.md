@@ -8,6 +8,12 @@
 
 - [CliWrap](https://github.com/Tyrrrz/CliWrap) - Library for running command-line processes
 - [Cocona](https://github.com/mayuki/Cocona) - Micro-framework for .NET console application. Cocona makes it easy and fast to build console applications on .NET
+- [Spectre.Console](https://spectreconsole.net/) - A .NET library that makes it easier to create beautiful console applications.
+- [Spectre.Console.Cli](https://spectreconsole.net/) - Spectre.Console.Cli is a modern library for parsing command line arguments. While it's extremely opinionated in what it does, it tries to follow established industry conventions, and draws its inspiration from applications you use everyday.
+
+## Misc
+
+- [C# Extension by zzz](https://csharp-extension.com/) - Enhance the .NET Framework with over 1000 extension methods.
 
 ## Testing
 
