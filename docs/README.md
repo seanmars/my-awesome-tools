@@ -52,3 +52,7 @@
 - [Notion](https://www.notion.so/)
 - [anytype](https://anytype.io/)
 - [Obsidian](https://obsidian.md/)
+
+## Misc
+
+- [GlideX](https://www.asus.com/tw/content/glidex/) - 跨裝置的螢幕共享解決方案
