@@ -3,3 +3,4 @@
 * [Self-Hosted](/self-hosted/)
 * [SaaS](/saas/)
 * [macOS](/macOS/)
+* [term](/term/)
