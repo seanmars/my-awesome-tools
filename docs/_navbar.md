@@ -1,5 +1,6 @@
 * [Tools](/)
 * [.NET](/dot-net/)
+* [JavaScript/TypeScript](/javascript/)
 * [Self-Hosted](/self-hosted/)
 * [SaaS](/saas/)
 * [macOS](/macOS/)
