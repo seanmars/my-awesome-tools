@@ -10,6 +10,7 @@
 - [gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
 - [TooLong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 - [fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
+- [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 
 ## Development Tools
 
