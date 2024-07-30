@@ -44,6 +44,10 @@
 - [Upptime](https://github.com/upptime/upptime) - GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [Zabbix](https://www.zabbix.com/)
 
+## Logging
+
+- [Seq](https://datalust.co/seq) - The self-hosted search, analysis, and alerting server built for structured logs and traces.
+
 ## Diagram
 
 - [draw.io](https://www.drawio.com/) - draw.io is a JavaScript, client-side editor for general diagramming.
