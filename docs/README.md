@@ -37,6 +37,8 @@
 
 ## Observability Tools
 
+- [SigNoz](https://github.com/SigNoz/signoz)
+- [UpTrace](https://github.com/uptrace/uptrace)
 - [Uptime Kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [OneUptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
 - [Upptime](https://github.com/upptime/upptime) - GitHub Actions uptime monitor & status page by @AnandChowdhary
