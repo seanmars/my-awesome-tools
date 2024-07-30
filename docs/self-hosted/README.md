@@ -11,4 +11,5 @@
 
 ## Misc
 
+- [Bitwarden](https://bitwarden.com/)
 - [sandbox](https://github.com/ishaan1013/sandbox) - A cloud-based code editing environment with an AI copilot and real-time collaboration
