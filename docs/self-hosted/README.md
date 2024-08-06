@@ -10,6 +10,7 @@
 ## Automation Tool
 
 - [activepieces](https://www.activepieces.com/) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
+- [n8n](https://n8n.io/) - Secure, AI-native workflow automation
 
 ## Misc
 
