@@ -1,5 +1,7 @@
 # Self-hosted Service
 
+更多的自架服務可以參考 [Awesome Selfhosted website](https://awesome-selfhosted.net/)
+
 ## Auth
 
 - [Keycloak](https://www.keycloak.org/)
