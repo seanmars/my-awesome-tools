@@ -1,7 +1,13 @@
+
+## Some website about AI
+
 - [OpenAI](https://openai.com/)
 - [Stability](https://stability.ai/)
 - [Hugging Face](https://huggingface.co/)
 
+### Guide
+
+- [Prompt Guide](https://www.promptingguide.ai/)
 
 ## Tools
 
