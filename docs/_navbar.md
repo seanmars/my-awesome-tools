@@ -1,4 +1,5 @@
 * [Tools](/)
+* [AI](/ai/)
 * [.NET](/dot-net/)
 * [JavaScript/TypeScript](/javascript/)
 * [Self-Hosted](/self-hosted/)
