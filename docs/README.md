@@ -18,6 +18,7 @@
 - [Ngrok](https://ngrok.com/) - ngrok is a globally distributed reverse proxy that secures, protects and accelerates your applications and network services, no matter where you run them. You can think of ngrok as the front door to your applications.
 - [devtunnel](https://learn.microsoft.com/zh-tw/azure/developer/dev-tunnels/) - Dev tunnels allows developers to securely expose local web services to the Internet, control who has access, and easily & debug your web applications from anywhere.
 - [Piko](https://github.com/andydunstall/piko) - An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)
+- [just](https://github.com/casey/just) - Like Make, `just` is a handy way to save and run project-specific commands.
 
 ### Container
 
