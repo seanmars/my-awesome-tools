@@ -36,6 +36,11 @@
 - [Valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
 - [Garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.
 
+## Security
+
+- [GPG Suite](https://gpgtools.org/) - for macOS
+- [Gpg4win](https://www.gpg4win.org/) - for Windows
+
 ## Observability Tools
 
 - [SigNoz](https://github.com/SigNoz/signoz)
