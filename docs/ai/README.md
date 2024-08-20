@@ -27,6 +27,7 @@
 
 ### 2D
 
+- [Leonardo.Ai](https://leonardo.ai/)
 - [Dall-E](https://openai.com/index/dall-e-3/)
 - [Microsoft Image Creator](https://www.bing.com/images/create)
   
