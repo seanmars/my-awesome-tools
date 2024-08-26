@@ -62,7 +62,7 @@
 
 - [draw.io](https://www.drawio.com/) - draw.io is a JavaScript, client-side editor for general diagramming.
 - [Structurizr](https://structurizr.com/) - Structurizr builds upon "diagrams as code", allowing you to create multiple software architecture diagrams from a single model.
-- [whimsical](https://whimsical.com/)
+- [Whimsical](https://whimsical.com/) - 多合一的視覺圖工具，目前包含了流程圖、原型設計圖、便利貼看板，未來還即將開發心智圖功能。
 - [tldraw](https://www.tldraw.com/r) - infinite canvas
 
 ## Note
