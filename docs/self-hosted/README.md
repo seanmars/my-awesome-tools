@@ -7,6 +7,11 @@
 - [Keycloak](https://www.keycloak.org/)
 - [ZITADEL](https://zitadel.com/)
 
+## Data / Database
+
+- [supbase](https://supabase.com/) - Supabase is an open source Firebase alternative.
+- [ChartDB](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query.
+
 ## Automation Tool
 
 - [activepieces](https://www.activepieces.com/) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
