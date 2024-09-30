@@ -10,6 +10,10 @@
 - [Zapier](https://zapier.com/)
 - [IFTTT](https://ifttt.com/)
 
+## Data / Database
+
+- [Airtable](https://www.airtable.com/)
+
 ## Other
 
 - [cobalt](https://github.com/imputnet/cobalt) - cobalt is a media downloader that doesn't piss you off. it's fast, friendly, and doesn't have any bullshit that modern web is filled with: no ads, trackers, or invasive analytics.
