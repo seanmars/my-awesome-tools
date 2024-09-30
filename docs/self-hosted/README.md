@@ -1,6 +1,6 @@
 # Self-hosted Service
 
-更多的自架服務可以參考 [Awesome Selfhosted website](https://awesome-selfhosted.net/)
+更多的自架服務可以參考 [Awesome Selfhosted website](https://awesome-selfhosted.net/) or [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
 ## Auth
 
@@ -10,6 +10,7 @@
 ## Data / Database
 
 - [supbase](https://supabase.com/) - Supabase is an open source Firebase alternative.
+- [ClickHouse](https://clickhouse.com/)
 - [ChartDB](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query.
 
 ## Automation Tool
