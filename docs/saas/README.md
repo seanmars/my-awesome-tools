@@ -14,6 +14,10 @@
 
 - [Airtable](https://www.airtable.com/)
 
+## AI
+
+-[Gamma](https://gamma.app/) - AI 簡報
+
 ## Other
 
 - [cobalt](https://github.com/imputnet/cobalt) - cobalt is a media downloader that doesn't piss you off. it's fast, friendly, and doesn't have any bullshit that modern web is filled with: no ads, trackers, or invasive analytics.
