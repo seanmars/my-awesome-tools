@@ -13,6 +13,7 @@
 - [supbase](https://supabase.com/) - Supabase is an open source Firebase alternative.
 - [ClickHouse](https://clickhouse.com/)
 - [ChartDB](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query.
+- [Infisical](https://infisical.com/) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 
 ## Automation Tool
 
