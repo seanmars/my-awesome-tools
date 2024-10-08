@@ -39,8 +39,10 @@
 
 ### Cache
 
+- [DiceDB](https://dicedb.io/) - DiceDB is an in-memory, real-time, and reactive database with Redis and SQL support optimized for modern hardware and building real-time applications.
 - [Valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
 - [Garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.
+- [Redis](https://redis.io/) - Redis is an in-memory data store used by millions of developers as a cache, vector database, document database, streaming engine, and message broker.
 
 ## Security
 
