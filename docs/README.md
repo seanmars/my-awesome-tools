@@ -84,3 +84,10 @@
 
 - [Fork](https://git-fork.com/)
 - [GitButler](https://gitbutler.com/)
+
+## Web Game Engine
+
+- [Babylon.js](https://www.babylonjs.com/) - JS/TS
+- [Phaser](https://phaser.io/) - JS/TS
+- [Bevy](https://bevyengine.org/) - Rust
+- [Fyrox](https://fyrox.rs/) - Rust
