@@ -79,6 +79,7 @@
 
 - [GlideX](https://www.asus.com/tw/content/glidex/) - 跨裝置的螢幕共享解決方案
 - [Rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
+- [Tech Stack File](https://stackshare.io/tech-stack-file) - The universal standard for tech stack data. A single file that lists the entire tech stack of a Git repo, with metadata about each technology. Read more about the file and the GitHub App [here](https://stackshare.io/posts/introducing-the-tech-stack-file).
 
 ## Git
 
