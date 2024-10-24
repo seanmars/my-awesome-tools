@@ -22,6 +22,11 @@
 - [just](https://github.com/casey/just) - Like Make, `just` is a handy way to save and run project-specific commands.
 - [Consul](https://www.consul.io/) - Service Discovery
 
+### Database
+
+- [DBeaver](https://dbeaver.io/) - DBeaver Community is a free cross-platform database tool for developers, database administrators, analysts, and everyone working with data. It supports all popular SQL databases like MySQL, MariaDB, PostgreSQL, SQLite, Apache Family, and more.
+- [HeidiSQL](https://www.heidisql.com/) - HeidiSQL is free software for people who work with databases, and aims to be intuitive to use. "Heidi" lets you connect to a variety of databases, like MariaDB, MySQL, Microsoft SQL, PostgreSQL, SQLite, Interbase and Firebird.(Only for Windows)
+
 ### SSH
 
 - [Termius](https://termius.com/) Cross-Platform SSH Client
