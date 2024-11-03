@@ -74,6 +74,13 @@
 - [Whimsical](https://whimsical.com/) - 多合一的視覺圖工具，目前包含了流程圖、原型設計圖、便利貼看板，未來還即將開發心智圖功能。
 - [tldraw](https://www.tldraw.com/r) - infinite canvas
 
+## Automate
+
+- [zapier](https://zapier.com/)
+- [make](https://www.make.com)
+- [UiPath](https://www.uipath.com/)
+- [n8n](https://n8n.io/)
+
 ## Note
 
 - [Notion](https://www.notion.so/)
