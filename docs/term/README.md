@@ -1,5 +1,12 @@
 # 術語 / 用語對照表
 
+## 微軟術語表
+
+- [Microsoft language resources](https://learn.microsoft.com/en-us/globalization/reference/microsoft-language-resources) 微軟提供的專業術語表
+  - [Microsoft Terminology Search by Power BI](https://msit.powerbi.com/view?r=eyJrIjoiODJmYjU4Y2YtM2M0ZC00YzYxLWE1YTktNzFjYmYxNTAxNjQ0IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9)
+
+## Other
+
 | English | 臺灣 | 大陸 |
 | --- | --- | --- |
 | Abstract | 摘要；抽象的 | 摘要；抽象的 |
