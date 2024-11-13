@@ -16,7 +16,11 @@
 
 ## AI
 
--[Gamma](https://gamma.app/) - AI 簡報
+- [Gamma](https://gamma.app/) - AI 簡報
+
+## Security
+
+- [Security Header](https://securityheaders.com/) - 掃描網站 header 安全分數
 
 ## Other
 
