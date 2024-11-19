@@ -24,6 +24,7 @@
 
 ### Database
 
+- [ChartDB](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [DBeaver](https://dbeaver.io/) - DBeaver Community is a free cross-platform database tool for developers, database administrators, analysts, and everyone working with data. It supports all popular SQL databases like MySQL, MariaDB, PostgreSQL, SQLite, Apache Family, and more.
 - [HeidiSQL](https://www.heidisql.com/) - HeidiSQL is free software for people who work with databases, and aims to be intuitive to use. "Heidi" lets you connect to a variety of databases, like MariaDB, MySQL, Microsoft SQL, PostgreSQL, SQLite, Interbase and Firebird.(Only for Windows)
 
