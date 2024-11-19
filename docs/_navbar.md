@@ -6,3 +6,4 @@
 * [SaaS](/saas/)
 * [macOS](/macOS/)
 * [term](/term/)
+* [webapp Patterns](https://www.patterns.dev/)
