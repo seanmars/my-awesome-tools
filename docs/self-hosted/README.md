@@ -4,6 +4,7 @@
 
 ## Auth
 
+- [Stack Auth](https://github.com/stack-auth/stack) - Open-source Auth0/Clerk alternative
 - [Keycloak](https://www.keycloak.org/)
 - [ZITADEL](https://zitadel.com/)
 
