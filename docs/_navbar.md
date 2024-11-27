@@ -1,4 +1,4 @@
-* [Tools](/)
+* [Dev Tools](/)
 * [AI](/ai/)
 * [.NET](/dot-net/)
 * [JavaScript/TypeScript](/javascript/)
