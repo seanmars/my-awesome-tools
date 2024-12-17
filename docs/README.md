@@ -78,6 +78,7 @@
 - [PlantUML](https://plantuml.com/)- PlantUML is a highly versatile tool that facilitates the rapid and straightforward creation of a wide array of diagrams.
 - [Mermaid](https://mermaid.js.org/) - JavaScript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically.
 - [Diagrams](https://diagrams.mingrammer.com/) - Diagrams lets you draw the cloud system architecture in Python code.
+- [d2](https://d2lang.com/) - D2 is a diagram scripting language that turns text to diagrams. It stands for Declarative Diagramming. Declarative, as in, you describe what you want diagrammed, it generates the image.
 
 ## Automate
 
