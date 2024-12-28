@@ -22,5 +22,8 @@
 
 ## Misc
 
-- [Bitwarden](https://bitwarden.com/)
 - [sandbox](https://github.com/ishaan1013/sandbox) - A cloud-based code editing environment with an AI copilot and real-time collaboration
+- [Taskcafe](https://github.com/JordanKnott/taskcafe) - An open source project management tool with Kanban boards
+- [Focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
+- [Bitwarden](https://bitwarden.com/)
+- [Vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
