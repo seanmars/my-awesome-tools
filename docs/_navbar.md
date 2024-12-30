@@ -4,6 +4,5 @@
 * [JavaScript/TypeScript](/javascript/)
 * [Self-Hosted](/self-hosted/)
 * [SaaS](/saas/)
-* [Software](/software/)
 * [term](/term/)
 * [webapp Patterns](https://www.patterns.dev/)
