@@ -99,6 +99,9 @@
 - [Rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [Tech Stack File](https://stackshare.io/tech-stack-file) - The universal standard for tech stack data. A single file that lists the entire tech stack of a Git repo, with metadata about each technology. Read more about the file and the GitHub App [here](https://stackshare.io/posts/introducing-the-tech-stack-file).
 - [qrframe](https://github.com/zhengkyl/qrframe) - qr code designer([demo](https://qrframe.kylezhe.ng/))
+- 💰[SmoothScroll](https://www.smoothscroll.net) [Win] [Mac] - SmoothScroll will give your mouse wheel (Chrome, Word, OneNote, text editors, PDF, etc.) buttery smooth scrolling.
+- [LocalSend](https://localsend.org/) - Share files to nearby devices. Free, open-source, cross-platform.
+- [Slidev.js](https://sli.dev/) - 簡報工具 Presentation Slides for Developers
 
 ## Git
 
@@ -111,3 +114,12 @@
 - [Phaser](https://phaser.io/) - JS/TS
 - [Bevy](https://bevyengine.org/) - Rust
 - [Fyrox](https://fyrox.rs/) - Rust
+
+## Windows Only
+
+- [Fan Control](https://getfancontrol.com/) - 電腦風扇控制
+- [QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
+
+## macOS Only
+
+- [Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
