@@ -123,3 +123,5 @@
 ## macOS Only
 
 - [Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
+- [shortcat](https://shortcat.app/) - Manipulate macOS masterfully, minus the mouse.
+- [vifm](https://github.com/vifm/vifm) - Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt.
