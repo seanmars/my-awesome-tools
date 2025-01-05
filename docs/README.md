@@ -80,6 +80,10 @@
 - [Diagrams](https://diagrams.mingrammer.com/) - Diagrams lets you draw the cloud system architecture in Python code.
 - [d2](https://d2lang.com/) - D2 is a diagram scripting language that turns text to diagrams. It stands for Declarative Diagramming. Declarative, as in, you describe what you want diagrammed, it generates the image.
 
+## Design
+
+- [Lottielab](https://www.lottielab.com/) - The motion design tool for product teams
+
 ## Automate
 
 - [zapier](https://zapier.com/)
