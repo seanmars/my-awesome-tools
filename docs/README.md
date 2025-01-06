@@ -95,7 +95,12 @@
 
 - [Notion](https://www.notion.so/)
 - [anytype](https://anytype.io/)
-- [Obsidian](https://obsidian.md/)
+- [Obsidian](https://obsidian.md/) - Obsidian is the private and flexible writing app that adapts to the way you think.
+- [Joplin](https://joplinapp.org/) - Joplin is an open source note-taking app. Capture your thoughts and securely access them from any device.
+- [Logseq](https://logseq.com/) - By thinking and writing with Logseq, you'll gain confidence in what you know and stop worrying about forgetting anything.
+- [Notable](https://notable.app) - The Markdown-based note-taking app that doesn't suck.
+- [Zettlr](https://www.zettlr.com/) - From idea to publication in one app: Zettlr supports your writing process at every stage — from initial notes to journal submission or book manuscript.
+- [MarkText](https://www.marktext.cc/) - Simple and Elegant Markdown Editor Focused on speed and usability.
 
 ## Misc
 
