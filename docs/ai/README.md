@@ -13,6 +13,7 @@
 
 - [LM Studio](https://lmstudio.ai/)
 - [Ollama](https://ollama.com/)
+- [Browser Use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 
 ## Chat
 
