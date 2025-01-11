@@ -101,6 +101,7 @@
 - [Notable](https://notable.app) - The Markdown-based note-taking app that doesn't suck.
 - [Zettlr](https://www.zettlr.com/) - From idea to publication in one app: Zettlr supports your writing process at every stage — from initial notes to journal submission or book manuscript.
 - [MarkText](https://www.marktext.cc/) - Simple and Elegant Markdown Editor Focused on speed and usability.
+- [AFFiNE](https://affine.pro/) - AFFiNE is a workspace with fully merged docs, whiteboards and databases. Get more things done, your creativity isn’t monotone.
 
 ## Misc
 
