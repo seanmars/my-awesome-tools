@@ -5,4 +5,5 @@
 * [Self-Hosted](/self-hosted/)
 * [SaaS](/saas/)
 * [term](/term/)
+* [Misc](/misc/)
 * [webapp Patterns](https://www.patterns.dev/)
