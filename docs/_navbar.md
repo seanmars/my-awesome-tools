@@ -6,4 +6,3 @@
 * [SaaS](/saas/)
 * [term](/term/)
 * [Misc](/misc/)
-* [webapp Patterns](https://www.patterns.dev/)
