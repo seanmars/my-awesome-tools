@@ -5,5 +5,4 @@
 - [Self-Hosted](/self-hosted/)
 - [SaaS](/saas/)
 - [term](/term/)
-- [Container](/container)
 - [Misc](/misc/)
