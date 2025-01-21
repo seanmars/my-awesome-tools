@@ -12,7 +12,7 @@
 - [Nocodb](https://nocodb.com/) - Build Databases As Spreadsheets
 - [supbase](https://supabase.com/) - Supabase is an open source Firebase alternative.
 - [ClickHouse](https://clickhouse.com/)
-- [ChartDB](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query.
+- [ChartDB](https://github.com/chartdb/chartdb) - 資料庫圖表製作 Free and Open-source database diagrams editor, visualize and design your DB with a single query.
 - [Infisical](https://infisical.com/) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 
 ## Automation Tool
@@ -35,3 +35,4 @@
 - [glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
+- [excalidraw](https://github.com/excalidraw/excalidraw) - 協作圖表工具 An open source virtual hand-drawn style whiteboard. Collaborative and end-to-end encrypted.
