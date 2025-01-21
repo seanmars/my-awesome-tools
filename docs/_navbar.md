@@ -4,5 +4,5 @@
 - [JavaScript/TypeScript](/javascript/)
 - [Self-Hosted](/self-hosted/)
 - [SaaS](/saas/)
-- [term](/term/)
+- [Term](/term/)
 - [Misc](/misc/)
