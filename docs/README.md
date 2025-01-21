@@ -112,6 +112,7 @@
 - 💰[SmoothScroll](https://www.smoothscroll.net) [Win] [Mac] - SmoothScroll will give your mouse wheel (Chrome, Word, OneNote, text editors, PDF, etc.) buttery smooth scrolling.
 - [LocalSend](https://localsend.org/) - Share files to nearby devices. Free, open-source, cross-platform.
 - [Slidev.js](https://sli.dev/) - 簡報工具 Presentation Slides for Developers
+- [restic](https://github.com/restic/restic) - 備份工具 Fast, secure, efficient backup program
 
 ## Git
 
