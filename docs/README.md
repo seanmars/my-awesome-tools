@@ -74,6 +74,7 @@
 - [Structurizr](https://structurizr.com/) - Structurizr builds upon "diagrams as code", allowing you to create multiple software architecture diagrams from a single model.
 - [Whimsical](https://whimsical.com/) - 多合一的視覺圖工具，目前包含了流程圖、原型設計圖、便利貼看板，未來還即將開發心智圖功能。
 - [tldraw](https://www.tldraw.com/r) - infinite canvas
+- [Excalidraw](https://excalidraw.com/) - Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
 - [markmap](https://markmap.js.org/) - markdown + mindmap
 - [PlantUML](https://plantuml.com/)- PlantUML is a highly versatile tool that facilitates the rapid and straightforward creation of a wide array of diagrams.
 - [Mermaid](https://mermaid.js.org/) - JavaScript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically.
