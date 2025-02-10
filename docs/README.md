@@ -21,6 +21,7 @@
 - [Piko](https://github.com/andydunstall/piko) - An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)
 - [just](https://github.com/casey/just) - Like Make, `just` is a handy way to save and run project-specific commands.
 - [Consul](https://www.consul.io/) - Service Discovery
+- [Requestly](https://github.com/requestly/requestly) - Oen-source alternative to Charles Proxy and Telerik Fiddler.
 
 ### Database
 
