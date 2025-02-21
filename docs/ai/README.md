@@ -41,3 +41,9 @@
 
 - [runway](https://runwayml.com/)
 - [Haiper](https://haiper.ai/)
+
+## Development
+
+### Database
+
+- [chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
