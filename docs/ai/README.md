@@ -4,6 +4,7 @@
 - [OpenAI](https://openai.com/)
 - [Stability](https://stability.ai/)
 - [Hugging Face](https://huggingface.co/)
+- [MCP Servers](https://www.pulsemcp.com/) - Browse and discover MCP use cases, servers, clients, and news
 
 ### Guide
 
