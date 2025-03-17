@@ -15,6 +15,7 @@
 - [LM Studio](https://lmstudio.ai/)
 - [Ollama](https://ollama.com/)
 - [Browser Use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
+- [AgentDesk](https://www.agentdesk.ai/) - BrowserTools embeds AI code editors and agents directly into your web browser
 
 ## Chat
 
