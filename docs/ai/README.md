@@ -6,7 +6,8 @@
 - [Hugging Face](https://huggingface.co/)
 - [MCP Servers](https://www.pulsemcp.com/) - Browse and discover MCP use cases, servers, clients, and news
 - [Awesome MCP servers](https://github.com/appcypher/awesome-mcp-servers) - 各種 MCP server
-- 
+- [MCP Servers](https://mcp.so/) - Find Awesome MCP Servers and Clients
+  
 ### Guide
 
 - [Prompt Guide](https://www.promptingguide.ai/)
