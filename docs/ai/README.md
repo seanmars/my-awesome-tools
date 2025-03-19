@@ -17,6 +17,7 @@
 - [Ollama](https://ollama.com/)
 - [Browser Use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 - [AgentDesk](https://www.agentdesk.ai/) - BrowserTools embeds AI code editors and agents directly into your web browser
+- [LangFlow](https://www.langflow.org/) - Langflow is a low-code tool for developers that makes it easier to build powerful AI agents and workflows that can use any API, model, or database.
 
 ## Chat
 
