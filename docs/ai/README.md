@@ -46,6 +46,8 @@
 
 ## Development
 
+- [Awesome MCP servers](https://github.com/appcypher/awesome-mcp-servers) - 各種 MCP server
+
 ### Database
 
 - [chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
