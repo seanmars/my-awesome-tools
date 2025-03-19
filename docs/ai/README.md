@@ -5,7 +5,8 @@
 - [Stability](https://stability.ai/)
 - [Hugging Face](https://huggingface.co/)
 - [MCP Servers](https://www.pulsemcp.com/) - Browse and discover MCP use cases, servers, clients, and news
-
+- [Awesome MCP servers](https://github.com/appcypher/awesome-mcp-servers) - 各種 MCP server
+- 
 ### Guide
 
 - [Prompt Guide](https://www.promptingguide.ai/)
@@ -45,8 +46,6 @@
 - [Haiper](https://haiper.ai/)
 
 ## Development
-
-- [Awesome MCP servers](https://github.com/appcypher/awesome-mcp-servers) - 各種 MCP server
 
 ### Database
 
