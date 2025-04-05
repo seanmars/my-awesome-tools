@@ -5,3 +5,4 @@
 - [webapp Patterns](https://www.patterns.dev/) - Patterns.dev 是一個免費的線上資源，提供設計、渲染和效能模式，可用於使用 vanilla JavaScript 或現代框架建立功能強大的 Web 應用程式。
 - [Data Viz Project](https://datavizproject.com/) - 資料可視化資料庫 Data Viz Project is the world’s biggest library of data visualizations.
 - [Hello 演算法](https://www.hello-algo.com/zh-hant/) - 線上演算法教學，有簡體、繁體。
+- [GitDiagram](https://gitdiagram.com/) - 給予一個 github repository url 即可生成該專案的架構圖
