@@ -13,6 +13,11 @@
 
 - [Prompt Guide](https://www.promptingguide.ai/)
 
+## Coding
+
+- [Repomix](https://repomix.com/) - Pack your codebase into AI-friendly formats
+- [Aider](https://aider.chat/) - AI pair programming in your terminal
+
 ## Tools
 
 - [LM Studio](https://lmstudio.ai/)
