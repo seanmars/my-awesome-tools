@@ -4,10 +4,14 @@
 - [OpenAI](https://openai.com/)
 - [Stability](https://stability.ai/)
 - [Hugging Face](https://huggingface.co/)
-- [MCP Servers](https://www.pulsemcp.com/) - Browse and discover MCP use cases, servers, clients, and news
+
+### MCP Servers
+
 - [Awesome MCP servers](https://github.com/appcypher/awesome-mcp-servers) - 各種 MCP server
+- [MCP Servers](https://www.pulsemcp.com/) - Browse and discover MCP use cases, servers, clients, and news
 - [MCP Servers](https://mcp.so/) - Find Awesome MCP Servers and Clients
 - [Smithery](https://smithery.ai/) - Extend your agent with alot capabilities via Model Context Protocol servers.
+- [MCP marketplace by Cline](https://cline.bot/mcp-marketplace) - MCP Server Plugins for Cline
   
 ### Guide
 
