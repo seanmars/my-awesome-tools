@@ -19,7 +19,8 @@
 
 ## Coding
 
-- [Repomix](https://repomix.com/) - Pack your codebase into AI-friendly formats
+- [Repomix](https://github.com/yamadashy/repomix) - Pack your codebase into AI-friendly formats
+- [GitDiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Repository to diagram 
 - [Aider](https://aider.chat/) - AI pair programming in your terminal
 
 ## Tools
