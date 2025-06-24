@@ -24,6 +24,7 @@
 - [Requestly](https://github.com/requestly/requestly) - Oen-source alternative to Charles Proxy and Telerik Fiddler.
 - [ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 
+
 ### Database
 
 - [ChartDB](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
@@ -124,6 +125,7 @@
 - [Fork](https://git-fork.com/)
 - [GitButler](https://gitbutler.com/)
 - [SourceBot](https://github.com/sourcebot-dev/sourcebot) - 程式碼搜尋 Blazingly fast code search 🏎️ Deployed as a single Docker image 📦 Search million+ lines of code in your GitHub, GitLab, Gitea, and Gerrit repositories 🪄 MIT licensed ✅
+- [git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 
 ## Network
 
