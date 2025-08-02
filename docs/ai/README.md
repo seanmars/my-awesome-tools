@@ -19,9 +19,13 @@
 
 ## Coding
 
-- [Repomix](https://github.com/yamadashy/repomix) - Pack your codebase into AI-friendly formats
-- [GitDiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Repository to diagram 
-- [Aider](https://aider.chat/) - AI pair programming in your terminal
+- [Claude Code](https://claude.ai/code) - Claude's code interpreter
+  - [claude-code-templates](https://aitmpl.com/) - CLI tool for configuring and monitoring Claude Code
+  - [Claude Code Usage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code usage from local JSONL files.
+- [Kiro](https://kiro.dev/) - The AI IDE for prototype to production
+- [Gemini CLI](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [Cursor](https://cursor.so/) - The AI-powered code editor
+- [Windsurf](https://windsurf.com/) - The AI-powered code editor
 
 ## Tools
 
@@ -30,6 +34,8 @@
 - [Browser Use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 - [AgentDesk](https://www.agentdesk.ai/) - BrowserTools embeds AI code editors and agents directly into your web browser
 - [LangFlow](https://www.langflow.org/) - Langflow is a low-code tool for developers that makes it easier to build powerful AI agents and workflows that can use any API, model, or database.
+- [Repomix](https://github.com/yamadashy/repomix) - Pack your codebase into AI-friendly formats
+- [GitDiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Repository to diagram
 
 ## Chat
 
