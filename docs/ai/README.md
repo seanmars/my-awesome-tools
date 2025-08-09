@@ -22,6 +22,7 @@
 - [Claude Code](https://claude.ai/code) - Claude's code interpreter
   - [claude-code-templates](https://aitmpl.com/) - CLI tool for configuring and monitoring Claude Code
   - [Claude Code Usage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code usage from local JSONL files.
+  - [ccstat](https://github.com/ktny/ccstat) - Visualize your Claude Code session activity timeline — fast, beautiful, and insightful CLI tool
 - [Kiro](https://kiro.dev/) - The AI IDE for prototype to production
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [Cursor](https://cursor.so/) - The AI-powered code editor
