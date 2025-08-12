@@ -21,6 +21,7 @@
 
 - [Claude Code](https://claude.ai/code) - Claude's code interpreter
   - [claude-code-templates](https://aitmpl.com/) - CLI tool for configuring and monitoring Claude Code
+  - [Claude Code Commands](https://claudecodecommands.directory/) - Browse, share, and discover powerful commands for Claude Code. Find the perfect AI-powered coding commands for your workflow or contribute your own to the community.
   - [ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code usage from local JSONL files.
   - [ccstat](https://github.com/ktny/ccstat) - Visualize your Claude Code session activity timeline — fast, beautiful, and insightful CLI tool
 - [Kiro](https://kiro.dev/) - The AI IDE for prototype to production
