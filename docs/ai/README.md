@@ -25,6 +25,7 @@
   - [Claude Code Commands](https://claudecodecommands.directory/) - Browse, share, and discover powerful commands for Claude Code. Find the perfect AI-powered coding commands for your workflow or contribute your own to the community.
   - [ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code usage from local JSONL files.
   - [ccstat](https://github.com/ktny/ccstat) - Visualize your Claude Code session activity timeline — fast, beautiful, and insightful CLI tool
+  - [sniffly](https://github.com/chiphuyen/sniffly) - Claude Code dashboard with usage stats, error analysis, and sharable feature
 - [Kiro](https://kiro.dev/) - The AI IDE for prototype to production
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [Cursor](https://cursor.so/) - The AI-powered code editor
