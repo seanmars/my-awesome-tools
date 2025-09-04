@@ -14,6 +14,15 @@
 - [ApexCharts](https://github.com/apexcharts/apexcharts.js)
 - [vue-chartjs](https://github.com/apertureless/vue-chartjs)
 
+## Editor
+
+- [Plate.js](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui
+- [OverType](https://github.com/panphora/overtype) - The markdown editor that's just a textarea https://overtype.dev
+- [HyperMD](https://github.com/laobubu/HyperMD) - A WYSIWYG Markdown Editor for browsers. Break the Wall between writing and previewing.
+- [TUI Editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
+- [Milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG markdown editor framework.
+- [EasyMDE](https://github.com/Ionaru/easy-markdown-editor) - EasyMDE: A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
+
 ## UI Framework for Vue.js
 
 - [Vuetify](https://github.com/vuetifyjs/vuetify)
