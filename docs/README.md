@@ -12,6 +12,7 @@
 - [fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
+- [dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
 
 ## Development Tools
 
@@ -120,6 +121,7 @@
 - [Slidev.js](https://sli.dev/) - 簡報工具 Presentation Slides for Developers
 - [restic](https://github.com/restic/restic) - 備份工具 Fast, secure, efficient backup program
 - [mouseless](https://mouseless.click/) - Lightning-fast mouse control with the keyboard.
+- [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 
 ## Git
 
