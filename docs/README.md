@@ -122,6 +122,7 @@
 - [restic](https://github.com/restic/restic) - 備份工具 Fast, secure, efficient backup program
 - [mouseless](https://mouseless.click/) - Lightning-fast mouse control with the keyboard.
 - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
+- [espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 
 ## Git
 
