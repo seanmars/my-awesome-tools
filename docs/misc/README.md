@@ -7,3 +7,4 @@
 - [Hello 演算法](https://www.hello-algo.com/zh-hant/) - 線上演算法教學，有簡體、繁體。
 - [GitDiagram](https://gitdiagram.com/) - 給予一個 github repository url 即可生成該專案的架構圖
 - [中文計算機術語速查工具](https://darkthread.github.io/comp-terms/)
+- [Visual Types](https://types.kitlangton.com/) - Visual Types, a humble collection of semi-interactive TypeScript lessons, is ready to be clicked upon.
