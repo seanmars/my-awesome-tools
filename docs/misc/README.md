@@ -8,3 +8,4 @@
 - [GitDiagram](https://gitdiagram.com/) - 給予一個 github repository url 即可生成該專案的架構圖
 - [中文計算機術語速查工具](https://darkthread.github.io/comp-terms/)
 - [Visual Types](https://types.kitlangton.com/) - Visual Types, a humble collection of semi-interactive TypeScript lessons, is ready to be clicked upon.
+- [Strudel](https://strudel.cc/workshop/getting-started/) - With Strudel, you can expressively write dynamic music pieces.
