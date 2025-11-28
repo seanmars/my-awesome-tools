@@ -13,6 +13,7 @@
 - [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
 - [dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
+- [impala](https://github.com/pythops/impala) - TUI for managing wifi on Linux
 
 ## Development Tools
 
