@@ -41,6 +41,10 @@
 - [Repomix](https://github.com/yamadashy/repomix) - Pack your codebase into AI-friendly formats
 - [GitDiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Repository to diagram
 
+## Skills
+
+- [UI/UX Pro Max Skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+
 ## Chat
 
 - [Claude](https://claude.ai/)
