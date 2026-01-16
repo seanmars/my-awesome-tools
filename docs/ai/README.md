@@ -43,6 +43,7 @@
 
 ## Skills
 
+- [Agent Skills Marketplace](https://skillsmp.com/)
 - [UI/UX Pro Max Skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 
 ## Chat
