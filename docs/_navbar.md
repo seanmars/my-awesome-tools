@@ -6,3 +6,4 @@
 - [SaaS](/saas/)
 - [Term](/term/)
 - [Misc](/misc/)
+- [My AI Tools](/my-ai-tools/)
