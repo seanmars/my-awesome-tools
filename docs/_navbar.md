@@ -1,4 +1,5 @@
 - [Dev Tools](/)
+- [Fonts](/fonts/)
 - [AI](/ai/)
 - [.NET](/dot-net/)
 - [JavaScript/TypeScript](/javascript/)
